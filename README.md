@@ -1,10 +1,11 @@
 # andro-brute-force
 This tool crack password by brute force process. 
 # Requirements 
-1. This tool
-2. Usb cable and otg (for mobile)
-3. usb cable (for laptop and computer etc..)
-4. locked phone 
+1. Adb (enabled usb debugging)
+2. This tool
+3. Usb cable and otg (for mobile)
+4. usb cable (for laptop and computer etc..)
+5. locked phone 
    That's all
 # How to use andro-brute-force
 1. This tool use adb if you are using linux then install adb by writing (sudo apt install adb) and if you are using termux then you don't have to write this command and one more thing guys this command only works in linux distributions
