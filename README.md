@@ -3,8 +3,8 @@ This tool crack password by brute force process.
 # Requirements 
 1. Adb (enabled usb debugging)
 2. This tool
-3. Usb cable and otg (for mobile)
-4. usb cable (for laptop and computer etc..)
+3. Usb cable and otg (for cracking mobile phone password)
+4. usb cable (for cracking laptop and computer password etc..)
 5. locked phone 
    That's all
 # How to use andro-brute-force
