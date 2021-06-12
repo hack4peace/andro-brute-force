@@ -12,13 +12,13 @@ cyan="\e[96m"
 pink="\e[95m"
 #############
 # !/usr/bin/env bash
-echo -e "$grn I AM NOT RESPONSIBLE FOR ANY DAMAGE AND ILLEGAL WORK THIS IS YOUR RESPONSIBILITY IF YOU ACCEPT YOUR RESPONSIBILITY THEN CLICK ENTER"
-echo who
 clear
+echo -e "$grn I AM NOT RESPONSIBLE FOR ANY DAMAGE AND ILLEGAL WORK THIS IS YOUR RESPONSIBILITY IF YOU ACCEPT YOUR RESPONSIBILITY THEN CLICK ENTER"
+read who
 echo -e "$grn What is your age"
-echo who 
+read who 
 echo -e "$grn What is your name"
-echo who 
+read who 
 clear
 echo -e "$grn                   _                       _                   _                   __ $rset"                       
 echo -e "$grn                  | |                     | |                 | |                 / _| $rset"                        
