@@ -15,6 +15,7 @@ pink="\e[95m"
 clear
 echo -e "$grn I AM NOT RESPONSIBLE FOR ANY DAMAGE AND ILLEGAL WORK THIS IS YOUR RESPONSIBILITY IF YOU ACCEPT YOUR RESPONSIBILITY THEN CLICK ENTER"
 read who
+clear
 echo -e "$grn What is your age"
 read who 
 echo -e "$grn What is your name"
@@ -28,6 +29,7 @@ echo -e "$red| (_| || | | || (_| || |   | (_) |        | |_) || |   | |_| || |_ 
 echo -e "$grn \____||_| |_| \____||_|    \___/         |____/ |_|    \____| \__| \___|        |_|   \___/ |_|    \___| \___| $rset"
 echo -e "$red                                                                                                 version 1.0 $rset"                                                                                                                                                                                                                               
 echo -e "$blue                                             created by hack4peace $rset"
+echo -e "$blue                                           THANKS FOR USING THIS TOOL$who$rset"
 echo -e "$grn---------------------------------------------------$rset"
 echo -e "$red                STARTING ADB BRUTE FORCE$rset"
 echo -e "$grn---------------------------------------------------$rset"
