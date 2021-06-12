@@ -17,4 +17,4 @@ This tool crack password by brute force process.
 7. $ chmod +x andro-brute-force.sh
 8. $ bash andro-brute-force.sh (last command)
 9. Guys if are using usb debugging first time then you have to do this thing 👉 (tick on allow and click on ok)
-10.                                                                    Not compulsory 👆        compulsory  👆                
+                                                                    Not compulsory 👆        compulsory  👆                
