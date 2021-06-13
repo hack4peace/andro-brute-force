@@ -27,7 +27,7 @@ echo -e "$red  __ _  _ __    __| | _ __   ___   ______ | |__   _ __  _   _ | |_ 
 echo -e "$grn / _  ||  _ \  / _  ||  __| / _ \ |______||  _ \ |  __|| | | || __| / _ \|______||  _| / _ \ |  __| / __| / _ \ $rset"
 echo -e "$red| (_| || | | || (_| || |   | (_) |        | |_) || |   | |_| || |_ |  __/        | |  | (_) || |   | (__ |  __/ $rset"
 echo -e "$grn \____||_| |_| \____||_|    \___/         |____/ |_|    \____| \__| \___|        |_|   \___/ |_|    \___| \___| $rset"
-echo -e "$red                                                                                                 version 1.0 $rset"                                                                                                                                                                                                                               
+echo -e "$red                                                                                                       version 1.1 $rset"                                                                                                                                                                                                                               
 echo -e "$blue                                             created by hack4peace $rset"
 echo -e "$blue                                           THANKS FOR USING THIS TOOL $who$rset"
 echo -e "$grn---------------------------------------------------$rset"
