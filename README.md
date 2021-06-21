@@ -1,5 +1,5 @@
 # andro-brute-force
-This tool crack password by brute force process. 
+This tool crack password by brute force process, This tool only crack mobile phones password and one more thing guys if you have 4 pin password then it will work if not then cheack out my other brute force tool like andro-brute-force-2,andro-brute-force-3 etc
 # Requirements 
 1. Adb (enabled usb debugging)
 2. This tool
