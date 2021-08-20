@@ -53,7 +53,7 @@ for i in {0000..9999}; do
     
     if ! (( `expr $i + 1` % 5 )); then
         adb shell input keyevent 66
-        sleep 30
+        sleep 5
         adb shell input keyevent 82
         adb shell input swipe 407 1211 378 85
     fi
